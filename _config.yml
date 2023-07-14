@@ -1,5 +1,5 @@
 # Site
-name: "Keimin dev"
+name: "keimindev"
 title: "MinDev"
 description: "Welcome to Min's blog"
 logo: 'assets/images/logo.png'
@@ -14,7 +14,7 @@ permalink: /:title/
 # Authors
 authors:
   min:
-    name: min
+    name: kiemindev
     display_name: Min
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: keimindev@gmail.com
