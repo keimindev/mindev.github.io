@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello - . 
+title:
 permalink: /about
 comments: true
 ---
@@ -23,13 +23,14 @@ comments: true
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
 <h4>Would you like to talk with me?</h4>
-<p>LinkedIn 
-<a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin-in"></i>
-</a></p>
-<p>Instagram <a target="_blank" href="https://www.instagram.com/kiera_____j/">
-<i class="fab fa-square-instagram"></i></a>
+<p>
+<span></span><a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin"></i>
+</a></span>
+<span><a target="_blank" href="https://www.instagram.com/kiera_____j/">
+<i class="fab fa-square-instagram"></i></a></span>
 </p>
-
+<br>
+<br>
 <p>Questions or bug reports?</p>
 <p>Head over to this blog <a href="https://github.com/keimindev/keimindev.github.io">Github repository</a>!</p>
 
