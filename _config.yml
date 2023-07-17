@@ -16,11 +16,11 @@ authors:
   min:
     name: kiemindev
     display_name: Keira Min
-    gravatar: d2bbdbf49de59240f9544f98130e8a0d
+    avatar: 'https://media.licdn.com/dms/image/C5603AQGf1ZLq9xxcCg/profile-displayphoto-shrink_800_800/0/1629188391767?e=1695254400&v=beta&t=2DuqS2_sRakvnmFptGP4abarQ1F2LOgCfQKEJCzCd2o'
     email: keimindev@gmail.com
-    web: /keimindev.github.io/about
-#    twitter: https://twitter.com/wowthemesnet
- #   description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: /about
+   # twitter: https://twitter.com/wowthemesnet
+    description: "currently FrontEnd Dev in Seoul. Welcome to my blog"
   john:
     name: John
     display_name: John
@@ -28,8 +28,8 @@ authors:
     gravatar: d2bbdbf49de59240f9544f98130e8a0d
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
-#    twitter: https://twitter.com/wowthemesnet
-#    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
