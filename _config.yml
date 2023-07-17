@@ -16,11 +16,11 @@ authors:
   min:
     name: kiemindev
     display_name: Keira Min
-    avatar: 'assets/images/IMG_2017.png'
+    avatar: 'assets/images/IMG_2017.jpg'
     email: keimindev@gmail.com
     web: /about
    # twitter: https://twitter.com/wowthemesnet
-    description: "currently FrontEnd Dev in Seoul. Welcome to my blog"
+    description: "currently working as a front-end developer in Seoul 🇰🇷. Welcome to my blog"
   john:
     name: John
     display_name: John
