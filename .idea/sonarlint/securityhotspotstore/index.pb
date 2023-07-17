@@ -49,20 +49,14 @@ R
 "_posts/2018-01-12-tree-of-codes.md,c/1/c122d8bbb7dfede7200913dff90b755651115a05
 R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
-U
-%_posts/2018-01-11-customer-service.md,f/1/f1954dcab5ca1c75adf1737b6667ba5f3a9ed5d1
 V
 &_posts/2018-01-11-quick-start-guide.md,c/f/cf17079b626e0fa1e51e432e999dd5a39a8400af
-X
-(_posts/2018-01-12-press-and-education.md,c/c/ccf13254322ab273dad0a5269a5445c26380edb6
 X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
 Z
 *_posts/2018-06-12-acumulated-experience.md,e/c/ecc04ff27c2e71e29ce9fdd5b3c04a4b717537b8
 [
 +_posts/2018-01-12-is-intelligence-enough.md,c/c/ccd40893d74b4d438a6704ef185a5b5d7eccfb8d
-[
-+_posts/2018-01-12-we-all-wait-for-summer.md,6/2/621bb8bf573d9478f5463ebb34a2eb8a86223df4
 ;
 LICENSE.txt,7/9/79b82ce9b64a924266619555502f890dd80c83b9
 9

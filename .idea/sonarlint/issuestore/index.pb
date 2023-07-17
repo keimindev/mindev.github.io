@@ -17,22 +17,16 @@ H
 LICENSE.txt,7/9/79b82ce9b64a924266619555502f890dd80c83b9
 8
 404.html,1/2/12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
-U
-%_posts/2018-01-11-customer-service.md,f/1/f1954dcab5ca1c75adf1737b6667ba5f3a9ed5d1
 V
 &_posts/2018-01-11-quick-start-guide.md,c/f/cf17079b626e0fa1e51e432e999dd5a39a8400af
 [
 +_posts/2018-01-12-is-intelligence-enough.md,c/c/ccd40893d74b4d438a6704ef185a5b5d7eccfb8d
 l
 <_posts/2018-01-12-never-stopped-worrying-never-loved-bomb.md,3/9/39af67078a24deddd465c2fe68272d4e6ca8a61b
-X
-(_posts/2018-01-12-press-and-education.md,c/c/ccf13254322ab273dad0a5269a5445c26380edb6
 O
 _posts/2018-01-12-red-riding.md,2/9/2938378ab17a0714fbef495407e191c34317b6a0
 R
 "_posts/2018-01-12-tree-of-codes.md,c/1/c122d8bbb7dfede7200913dff90b755651115a05
-[
-+_posts/2018-01-12-we-all-wait-for-summer.md,6/2/621bb8bf573d9478f5463ebb34a2eb8a86223df4
 R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
 Z
