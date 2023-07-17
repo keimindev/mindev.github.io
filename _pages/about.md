@@ -15,7 +15,7 @@ comments: true
 
 <h5>Nationality : 🇰🇷</h5>
 <h5>Travel : 🇲🇽🇨🇭🇬🇧🇯🇵🇮🇹🇫🇷🇪🇸🇳🇿🇺🇸🇸🇮🇭🇰🇮🇸🇦🇪🇦🇺🇵🇹</h5>
-<h5>Like : 💻 ✈️ </h5>
+<h5>Like : 💻 🛫 </h5>
 <h5>Hobby : 🏊🏻‍♀️🏋 🎨</h5>
 
 </div>
@@ -24,7 +24,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h4>Would you like to talk with me?</h4>
 <p>
-<span></span><a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin"></i>
+<span><a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin"></i>
 </a></span>
 <span><a target="_blank" href="https://www.instagram.com/kiera_____j/">
 <i class="fab fa-square-instagram"></i></a></span>
