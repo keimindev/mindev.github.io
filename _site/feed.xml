@@ -5,18 +5,22 @@
     <description>Welcome to Min&apos;s blog</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jul 2023 14:37:25 +0900</pubDate>
-    <lastBuildDate>Mon, 17 Jul 2023 14:37:25 +0900</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2023 16:14:48 +0900</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2023 16:14:48 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>`NEXT.js` Introduction translate in Korean</title>
-        <description>&lt;h2 id=&quot;what-is-nextjs&quot;&gt;What is Next.js?&lt;/h2&gt;
+        <title>[NEXT.js] Introduction translate in Korean</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-nextjs&quot;&gt;What is Next.js?&lt;/h2&gt;
 
 &lt;p&gt;Next.js는 웹 에플리케이션 빌드를 위한 프레임워크로, 
 React components를 이용한 유저 인터페이스로 빌트할 수 있으며 추가적인 구조, 기능, 최적화를 제공합니다.
 번들링, 컴파일링과 같은 것들을 위해서 자동적으로 툴을 구성하고 상속해 사용하독로 강제화합니다. 툴을 셋팅하는데 시간을 보내는 대신에 어플리케이션 빌드에 좀 더 초첨을 두고 있습니다.
-&lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;️-main-features&quot;&gt;🛠️ Main Features&lt;/h3&gt;
@@ -54,7 +58,10 @@ React components를 이용한 유저 인터페이스로 빌트할 수 있으며 
   &lt;li&gt;API Reference
     &lt;ul&gt;
       &lt;li&gt;Next.js API이 업데이트 되었다. 새로운 APIs를 위해서 API reference 섹션을 참조하라. 
-&lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/li&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
