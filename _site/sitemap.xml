@@ -78,6 +78,9 @@
 <loc>http://localhost:4000/category/web-development/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/react/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
