@@ -51,8 +51,6 @@ R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
 X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
-Z
-*_posts/2018-06-12-acumulated-experience.md,e/c/ecc04ff27c2e71e29ce9fdd5b3c04a4b717537b8
 [
 +_posts/2018-01-12-is-intelligence-enough.md,c/c/ccd40893d74b4d438a6704ef185a5b5d7eccfb8d
 ;

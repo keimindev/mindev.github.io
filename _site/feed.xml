@@ -5,12 +5,12 @@
     <description>Welcome to Min&apos;s blog</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jul 2023 14:13:35 +0900</pubDate>
-    <lastBuildDate>Mon, 17 Jul 2023 14:13:35 +0900</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2023 14:26:15 +0900</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2023 14:26:15 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>[NEXT.js] Introduction translate in Korean</title>
+        <title></title>
         <description>&lt;h2 id=&quot;what-is-nextjs&quot;&gt;What is Next.js?&lt;/h2&gt;
 
 &lt;p&gt;Next.js는 웹 에플리케이션 빌드를 위한 프레임워크로, 
@@ -60,22 +60,10 @@ React components를 이용한 유저 인터페이스로 빌트할 수 있으며 
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Mon, 17 Jul 2023 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//NEXT.js-Introduction-translate-in-kor/</link>
-        <guid isPermaLink="true">http://localhost:4000//NEXT.js-Introduction-translate-in-kor/</guid>
+        <pubDate>Mon, 17 Jul 2023 14:26:15 +0900</pubDate>
+        <link>http://localhost:4000//2023-07-17-NEXT.js-Introduction-translate-in-kor/</link>
+        <guid isPermaLink="true">http://localhost:4000//2023-07-17-NEXT.js-Introduction-translate-in-kor/</guid>
         
-        <category>기술문서번역</category>
-        
-        <category>테크공부</category>
-        
-        <category>nextjs</category>
-        
-        
-        <category>blog</category>
-        
-        <category>next.js</category>
-        
-        <category>번역</category>
         
       </item>
     

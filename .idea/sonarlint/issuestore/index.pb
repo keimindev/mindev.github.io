@@ -27,8 +27,6 @@ R
 "_posts/2018-01-12-tree-of-codes.md,c/1/c122d8bbb7dfede7200913dff90b755651115a05
 R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
-Z
-*_posts/2018-06-12-acumulated-experience.md,e/c/ecc04ff27c2e71e29ce9fdd5b3c04a4b717537b8
 N
 _posts/2018-06-12-education.md,4/4/447d8398f9564f719195828690ad7efcab8d406f
 X
