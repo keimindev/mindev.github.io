@@ -43,14 +43,10 @@ X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
 S
 #_includes/adsense-under-header.html,6/7/67eccf2bf4a8c3bde8a156506e7a7fa4ade80cf9
-E
-_layouts/archive.html,7/b/7b0f942d0bd00b54bcbb6945702f72853187019b
 M
 assets/fonts/casper-icons.svg,3/c/3c46868d3b4d7dbc20b0c3e84d397034614c14ce
 E
 _includes/disqus.html,7/8/78b371fca39640974a46790be1daa36283fd5041
-J
-_includes/featuredbox.html,9/0/90e4539dab661667ca4d31f176711de0169150d6
 8
 feed.xml,2/2/22950ffc308261850157fa2318b4413a862cca26
 Y
@@ -61,12 +57,6 @@ A
 assets/js/lunr.js,3/1/3114a5e9555ffcc574dd6be8e4c98119c32b9ddf
 F
 assets/js/mediumish.js,b/a/ba707163aee06477856df33f797f4c5418d74fc2
-I
-_includes/pagination.html,3/2/325ca9ad5ad4bb035d6254cbc061e9becbd411d8
-B
-_layouts/post.html,e/7/e767dacdd408265f818281195cc74a31191ab7cd
-F
-_includes/postbox.html,e/d/ed2138b9780fa517d9415459cd508f6ecb893713
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 J
@@ -76,17 +66,9 @@ J
 R
 "_includes/star_rating_postbox.html,9/a/9a6ab53073c5f5174be5e69ff63599ea00fa3edf
 B
-_layouts/tags.html,c/7/c76ca511b1e54594c2b0af4f17b6dd5715c010aa
-B
 _includes/toc.html,b/f/bf9f812b3f85c1c88af0e6bb2d41b766d12b5144
 M
 assets/js/lunrsearchengine.js,7/f/7fae23a5c35966dc7a945bc11b7db000c5092599
-d
-4_posts/2018-06-12-powerful-things-markdown-editor.md,5/a/5ae8fa7443c78d5a4c0bbead870b52adbd215fd1
-H
-_layouts/categories.html,8/9/893c257b0699e22a049ecb9e41605b8e6fd3bc15
-D
-_pages/categories.md,e/2/e2f3621a35e99ce78ecbfeadab97787bf7311673
 H
 _site/docker-compose.yml,9/a/9a92b07c15999b114451177fff44c16a0ec189cc
 7
@@ -111,14 +93,6 @@ G
 _site/assets/js/lunr.js,4/f/4fd2e3c8b2e53dc585b6ebc1d8bc7dddf8bdd523
 L
 _site/assets/js/mediumish.js,8/f/8f41a51e8fec34537b6742758d96fd916edcb1cd
-@
-site/_config.yml,a/7/a7760ae0ae7cb779e4b2d53b1ce14b932a2b8863
-<
-changelog.md,4/c/4c23f3e77a0ef00cf8da63e8e50eef5197724f75
 :
 
 index.html,f/6/f6013a00b362253c64368d6eebc50ea2131754e2
-n
->_posts/2018-01-12-options-for-creating-new-site-with-jekyll.md,d/b/dbf13a75eade464873ea2049b3242141dbb1438e
->
-_pages/tags.md,1/5/15bde5df0f166f1a3bdb76037223ffe92d5d744b

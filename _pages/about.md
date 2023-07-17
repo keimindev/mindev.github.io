@@ -24,10 +24,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h4>Would you like to talk with me?</h4>
 <p>
-<span><a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin"></i>
+<span><a target="_blank" href="https://www.linkedin.com/in/keira-min00/"><i class="fab fa-linkedin fa-2x"></i>
 </a></span>
 <span><a target="_blank" href="https://www.instagram.com/kiera_____j/">
-<i class="fab fa-square-instagram"></i></a></span>
+<i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></span>
 </p>
 <br>
 <br>

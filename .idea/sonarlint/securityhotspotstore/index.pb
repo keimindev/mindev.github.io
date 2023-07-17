@@ -4,25 +4,13 @@ R
 S
 #_includes/adsense-under-header.html,6/7/67eccf2bf4a8c3bde8a156506e7a7fa4ade80cf9
 B
-_layouts/post.html,e/7/e767dacdd408265f818281195cc74a31191ab7cd
-B
 docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
-B
-_layouts/tags.html,c/7/c76ca511b1e54594c2b0af4f17b6dd5715c010aa
-E
-_layouts/archive.html,7/b/7b0f942d0bd00b54bcbb6945702f72853187019b
 8
 feed.xml,2/2/22950ffc308261850157fa2318b4413a862cca26
 B
 _includes/toc.html,b/f/bf9f812b3f85c1c88af0e6bb2d41b766d12b5144
 E
 _includes/disqus.html,7/8/78b371fca39640974a46790be1daa36283fd5041
-F
-_includes/postbox.html,e/d/ed2138b9780fa517d9415459cd508f6ecb893713
-I
-_includes/pagination.html,3/2/325ca9ad5ad4bb035d6254cbc061e9becbd411d8
-J
-_includes/featuredbox.html,9/0/90e4539dab661667ca4d31f176711de0169150d6
 J
 _includes/search-lunr.html,1/2/121a2956e772570acb3f20c25dbe370e54a46df0
 J
@@ -81,15 +69,9 @@ Z
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 assets/js/lunrsearchengine.js,7/f/7fae23a5c35966dc7a945bc11b7db000c5092599
-d
-4_posts/2018-06-12-powerful-things-markdown-editor.md,5/a/5ae8fa7443c78d5a4c0bbead870b52adbd215fd1
 :
 
 index.html,f/6/f6013a00b362253c64368d6eebc50ea2131754e2
-D
-_pages/categories.md,e/2/e2f3621a35e99ce78ecbfeadab97787bf7311673
-H
-_layouts/categories.html,8/9/893c257b0699e22a049ecb9e41605b8e6fd3bc15
 H
 _site/docker-compose.yml,9/a/9a92b07c15999b114451177fff44c16a0ec189cc
 7
@@ -114,11 +96,3 @@ K
 _site/assets/css/screen.css,3/6/3639ca521255fd1c0628592a156667f70712acc0
 <
 Gemfile.lock,2/1/21fb5836b499a2be648386aac055d2e069160d6c
-@
-site/_config.yml,a/7/a7760ae0ae7cb779e4b2d53b1ce14b932a2b8863
-<
-changelog.md,4/c/4c23f3e77a0ef00cf8da63e8e50eef5197724f75
-n
->_posts/2018-01-12-options-for-creating-new-site-with-jekyll.md,d/b/dbf13a75eade464873ea2049b3242141dbb1438e
->
-_pages/tags.md,1/5/15bde5df0f166f1a3bdb76037223ffe92d5d744b
