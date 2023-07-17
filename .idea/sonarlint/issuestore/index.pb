@@ -19,16 +19,12 @@ H
 404.html,1/2/12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
 [
 +_posts/2018-01-12-is-intelligence-enough.md,c/c/ccd40893d74b4d438a6704ef185a5b5d7eccfb8d
-l
-<_posts/2018-01-12-never-stopped-worrying-never-loved-bomb.md,3/9/39af67078a24deddd465c2fe68272d4e6ca8a61b
 O
 _posts/2018-01-12-red-riding.md,2/9/2938378ab17a0714fbef495407e191c34317b6a0
 R
 "_posts/2018-01-12-tree-of-codes.md,c/1/c122d8bbb7dfede7200913dff90b755651115a05
 R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
-N
-_posts/2018-06-12-education.md,4/4/447d8398f9564f719195828690ad7efcab8d406f
 X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
 S

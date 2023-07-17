@@ -31,8 +31,6 @@ G
 assets/js/jquery.min.js,d/7/d73278fe89129125678650887b2486170583e90e
 Y
 )assets/js/ie10-viewport-bug-workaround.js,b/5/b5097c12ae1dcab0406b20d7f397375d576d0a19
-l
-<_posts/2018-01-12-never-stopped-worrying-never-loved-bomb.md,3/9/39af67078a24deddd465c2fe68272d4e6ca8a61b
 A
 _sass/_stars.scss,b/6/b67ac79f868d72886d4592d14d9e6553078a0399
 B
@@ -41,8 +39,6 @@ H
 _sass/_starsnonscss.scss,e/6/e6efcd78b4954ef6818f07784b6f87476d85a121
 8
 404.html,1/2/12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
-N
-_posts/2018-06-12-education.md,4/4/447d8398f9564f719195828690ad7efcab8d406f
 O
 _posts/2018-01-12-red-riding.md,2/9/2938378ab17a0714fbef495407e191c34317b6a0
 R
