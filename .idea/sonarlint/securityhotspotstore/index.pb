@@ -49,8 +49,6 @@ R
 "_posts/2018-01-12-tree-of-codes.md,c/1/c122d8bbb7dfede7200913dff90b755651115a05
 R
 "_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
-V
-&_posts/2018-01-11-quick-start-guide.md,c/f/cf17079b626e0fa1e51e432e999dd5a39a8400af
 X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
 Z

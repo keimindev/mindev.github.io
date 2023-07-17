@@ -5,9 +5,78 @@
     <description>Welcome to Min&apos;s blog</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jul 2023 11:25:41 +0900</pubDate>
-    <lastBuildDate>Mon, 17 Jul 2023 11:25:41 +0900</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2023 12:30:43 +0900</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2023 12:30:43 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>[NEXT.js] Introduction translate in Korean</title>
+        <description>&lt;h2 id=&quot;what-is-nextjs&quot;&gt;What is Next.js?&lt;/h2&gt;
+
+&lt;p&gt;Next.js는 웹 에플리케이션 빌드를 위한 프레임워크로, 
+React components를 이용한 유저 인터페이스로 빌트할 수 있으며 추가적인 구조, 기능, 최적화를 제공합니다.
+번들링, 컴파일링과 같은 것들을 위해서 자동적으로 툴을 구성하고 상속해 사용하독로 강제화합니다. 툴을 셋팅하는데 시간을 보내는 대신에 어플리케이션 빌드에 좀 더 초첨을 두고 있습니다.
+&lt;br /&gt;&amp;lt;/br&amp;gt;
+———–&lt;/p&gt;
+&lt;h3 id=&quot;️-main-features&quot;&gt;🛠️ Main Features&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Routing
+    &lt;ul&gt;
+      &lt;li&gt;레이아웃, 중첩되는 라우팅, 에러 핸들링 과 같은 것들을 서포트하는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;server components&lt;/code&gt;의 상위에 빌드된 파일 시스템 기반의 라우팅을 한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rendering
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;client&lt;/code&gt; 와 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;server components&lt;/code&gt;를 사용해서 클라이언트 사이드, 서버 사이드 렌더링을 할 수 있고, node,js 런타임과 edge 스트리밍(데이터 스트리밍)으로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;정적&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;동적&lt;/code&gt; 렌더링을 서버에서 최적화한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Data Fetching
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;async/await&lt;/code&gt;를 지원하는 React Components와 react와 웹 플랫폼 사이의 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fetch() API&lt;/code&gt;를 통해서 간소화된 data fetching을 할 수 있다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Styling
+    &lt;ul&gt;
+      &lt;li&gt;css 모듈, tailwind CSS 등을 포함한 선호하는 스타일링 메소드를 지원한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Optimizations
+    &lt;ul&gt;
+      &lt;li&gt;어플리케이션의 코어 웹 바이탈과 유저 인터페이스 향상을 위해 이미지, 폰트, 스크립트 최적화를 한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;TypeScript
+    &lt;ul&gt;
+      &lt;li&gt;더 효율적인 컴파일과정과 더 나운 타입 체크를 위해서 타입스크립트를 지원한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;API Reference
+    &lt;ul&gt;
+      &lt;li&gt;Next.js API이 업데이트 되었다. 새로운 APIs를 위해서 API reference 섹션을 참조하라. 
+&lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 17 Jul 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//NEXT.js-Introduction-%EB%B2%88%EC%97%AD/</link>
+        <guid isPermaLink="true">http://localhost:4000//NEXT.js-Introduction-%EB%B2%88%EC%97%AD/</guid>
+        
+        <category>기술문서번역</category>
+        
+        <category>테크공부</category>
+        
+        <category>nextjs</category>
+        
+        
+        <category>blog</category>
+        
+        <category>next.js</category>
+        
+        <category>번역</category>
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -359,31 +428,6 @@
         <category>Jekyll</category>
         
         <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000//options-for-creating-new-site-with-jekyll/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-        <category>React</category>
         
       </item>
     

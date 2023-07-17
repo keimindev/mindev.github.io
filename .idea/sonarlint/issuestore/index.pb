@@ -17,8 +17,6 @@ H
 LICENSE.txt,7/9/79b82ce9b64a924266619555502f890dd80c83b9
 8
 404.html,1/2/12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
-V
-&_posts/2018-01-11-quick-start-guide.md,c/f/cf17079b626e0fa1e51e432e999dd5a39a8400af
 [
 +_posts/2018-01-12-is-intelligence-enough.md,c/c/ccd40893d74b4d438a6704ef185a5b5d7eccfb8d
 l
