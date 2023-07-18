@@ -82,8 +82,6 @@ J
 _includes/featuredbox.html,9/0/90e4539dab661667ca4d31f176711de0169150d6
 I
 _includes/pagination.html,3/2/325ca9ad5ad4bb035d6254cbc061e9becbd411d8
-F
-_includes/postbox.html,e/d/ed2138b9780fa517d9415459cd508f6ecb893713
 B
 _layouts/page.html,8/b/8b421129e621bb2aca5057f6bdb5e5905633134c
 @
@@ -98,12 +96,8 @@ H
 _layouts/categories.html,8/9/893c257b0699e22a049ecb9e41605b8e6fd3bc15
 n
 >_posts/2018-01-12-options-for-creating-new-site-with-jekyll.md,d/b/dbf13a75eade464873ea2049b3242141dbb1438e
-?
-_pages/about.md,c/1/c193b33838b89e5057e026860e6881f9f9e83c09
 d
 4_posts/2018-06-12-powerful-things-markdown-editor.md,5/a/5ae8fa7443c78d5a4c0bbead870b52adbd215fd1
-E
-_layouts/default.html,8/8/88dc137ae43bf7a2fa27381f48221b3eb9908aac
 D
 _includes/share.html,8/4/84a2364c4bfc14d62cd61c6258a53f5dca52aed7
 E
