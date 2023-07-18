@@ -74,8 +74,6 @@ M
 _site/assets/css/main.css.map,0/0/00c2fa76ccd7f8aaa92bda317886424de82512bf
 I
 _site/assets/css/main.css,d/c/dc88991eab066404fed1eb76f3b68fe9aa22e62d
-K
-_site/assets/css/screen.css,3/6/3639ca521255fd1c0628592a156667f70712acc0
 <
 Gemfile.lock,2/1/21fb5836b499a2be648386aac055d2e069160d6c
 @
