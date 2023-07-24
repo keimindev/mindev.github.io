@@ -2,9 +2,8 @@
 layout: post
 title:  "Let's test spoilers"
 author: min
-categories: [ Jekyll, tutorial ]
+categories: []
 image: assets/images/12.jpg
-featured: true
 hidden: true
 ---
 
