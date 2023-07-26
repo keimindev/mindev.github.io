@@ -4,7 +4,7 @@ title:  "[React] SSR vs CSR"
 author: min
 categories: [blog, react, next.js, study, frontEnd]
 tags: [리액트, react, 테크공부, nextjs, csr, ssr]
-image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4C1Or%2FbtsoRDM4RC5%2F0OoR9iLfZJTJ3V9ZH4jULk%2Fimg.jpg
+image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc15mLb%2Fbtso08TM89p%2FtEzLbHEqzJKZ2W5lDFqlK0%2Fimg.png
 featured: true
 ---
 <br>
