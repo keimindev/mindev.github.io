@@ -324,13 +324,11 @@ E
 _layouts/default.html,8/8/88dc137ae43bf7a2fa27381f48221b3eb9908aac
 K
 _site/assets/css/screen.css,3/6/3639ca521255fd1c0628592a156667f70712acc0
-N
-_posts/2018-06-12-education.md,4/4/447d8398f9564f719195828690ad7efcab8d406f
-R
-"_posts/2018-05-12-about-bundler.md,8/8/885fb581324e87b8a85bb8fc994e3adfabd28dca
 X
 (_posts/2018-06-12-first-mass-produced.md,2/c/2cf15524d5b67bda22060f6dbe68017200faaf91
 Z
 *_posts/2018-06-12-acumulated-experience.md,e/c/ecc04ff27c2e71e29ce9fdd5b3c04a4b717537b8
-d
-4_posts/2018-06-12-powerful-things-markdown-editor.md,5/a/5ae8fa7443c78d5a4c0bbead870b52adbd215fd1
+n
+>_posts/2018-01-12-options-for-creating-new-site-with-jekyll.md,d/b/dbf13a75eade464873ea2049b3242141dbb1438e
+O
+_posts/2018-01-12-red-riding.md,2/9/2938378ab17a0714fbef495407e191c34317b6a0

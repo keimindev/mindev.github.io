@@ -2,8 +2,8 @@
 layout: post
 title:  "[React] SSR vs CSR"
 author: min
-categories: [blog, react, next.js, study, frontEnd]
-tags: [리액트, react, 테크공부, nextjs, csr, ssr]
+categories: [react, next.js]
+tags: [리액트, react, 테크공부, nextjs, csr, ssr,frontend]
 image: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc15mLb%2Fbtso08TM89p%2FtEzLbHEqzJKZ2W5lDFqlK0%2Fimg.png
 featured: true
 ---
